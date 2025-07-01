@@ -18,7 +18,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
 
-    /* Path Aliases */
+    /* Path Aliases - This is the fix */
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
